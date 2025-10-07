@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListTest", "LinkedListTest\LinkedListTest.csproj", "{9C3D91DB-F0D4-44B3-A48C-1A5321C44F76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{C08A24D4-09FC-403D-BC2D-91FD27372F0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_9_palindrome_number", "_9_palindrome_number\_9_palindrome_number.csproj", "{F40A00FA-1B4A-4179-B879-7D7A9F00AE2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,5 +36,13 @@ Global
 		{9C3D91DB-F0D4-44B3-A48C-1A5321C44F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C3D91DB-F0D4-44B3-A48C-1A5321C44F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C3D91DB-F0D4-44B3-A48C-1A5321C44F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C08A24D4-09FC-403D-BC2D-91FD27372F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08A24D4-09FC-403D-BC2D-91FD27372F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08A24D4-09FC-403D-BC2D-91FD27372F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08A24D4-09FC-403D-BC2D-91FD27372F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40A00FA-1B4A-4179-B879-7D7A9F00AE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40A00FA-1B4A-4179-B879-7D7A9F00AE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40A00FA-1B4A-4179-B879-7D7A9F00AE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40A00FA-1B4A-4179-B879-7D7A9F00AE2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
