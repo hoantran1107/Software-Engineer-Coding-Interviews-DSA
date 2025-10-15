@@ -19,6 +19,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\_1768_Merge_Strings_Alternately\_1768_Merge_Strings_Alternately.csproj" />
       <ProjectReference Include="..\_9_palindrome_number\_9_palindrome_number.csproj" />
     </ItemGroup>
 

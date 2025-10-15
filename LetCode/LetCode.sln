@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_9_palindrome_number", "_9_palindrome_number\_9_palindrome_number.csproj", "{F40A00FA-1B4A-4179-B879-7D7A9F00AE2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1768_Merge_Strings_Alternately", "_1768_Merge_Strings_Alternately\_1768_Merge_Strings_Alternately.csproj", "{30004BCF-2E9A-4AD5-B3E6-954D5834B6F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,9 @@ Global
 		{F40A00FA-1B4A-4179-B879-7D7A9F00AE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F40A00FA-1B4A-4179-B879-7D7A9F00AE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F40A00FA-1B4A-4179-B879-7D7A9F00AE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30004BCF-2E9A-4AD5-B3E6-954D5834B6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30004BCF-2E9A-4AD5-B3E6-954D5834B6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30004BCF-2E9A-4AD5-B3E6-954D5834B6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30004BCF-2E9A-4AD5-B3E6-954D5834B6F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

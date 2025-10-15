@@ -2,15 +2,21 @@
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AEqualityAsserts_002Ecs_002Fl_003AC_0021_003FUsers_003FHoanKhaiTran_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FSourcesCache_003Fec11489f13fea2ba3e5dfbdea086f41dac024556d53f318c75a75a2cbd73_003FEqualityAsserts_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ANullAsserts_002Ecs_002Fl_003AC_0021_003FUsers_003FHoanKhaiTran_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FSourcesCache_003Ff4efe1a05e309cf71ce280a392e1cfac5a8db3b6a76be486a57ae686444815_003FNullAsserts_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AString_002EManipulation_002Ecs_002Fl_003AC_0021_003FUsers_003FHoanKhaiTran_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FSourcesCache_003Fe75a5575ba872c8ea754c015cb363850e6c661f39569712d5b74aaca67263c_003FString_002EManipulation_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=022a339f_002D73ad_002D4f15_002Db6f5_002D270936094782/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_AllDuplicates" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=022a339f_002D73ad_002D4f15_002Db6f5_002D270936094782/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_AllDuplicates" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::83A1B2C3-D4E5-F6A7-B8C9-D0E1F2A3B4C6::net8.0::LeetCode._83.Tests.SolutionTests.Test_AllDuplicates&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C08A24D4-09FC-403D-BC2D-91FD27372F0C::net9.0::TestProject.Merge_String_Alternately.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C08A24D4-09FC-403D-BC2D-91FD27372F0C::net9.0::TestProject.Palindrome_Number&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C08A24D4-09FC-403D-BC2D-91FD27372F0C::net9.0::TestProject.Merge_String_Alternately&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5ab6807a_002D4bcb_002D447e_002Dac51_002Da05b3575be64/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_Example2_RemoveDuplicates_1_1_2_3_3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5ab6807a_002D4bcb_002D447e_002Dac51_002Da05b3575be64/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_Example2_RemoveDuplicates_1_1_2_3_3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Or&gt;&#xD;
     &lt;ProjectFile&gt;83A1B2C3-D4E5-F6A7-B8C9-D0E1F2A3B4C6/f:SolutionTests.cs&lt;/ProjectFile&gt;&#xD;
     &lt;ProjectFile&gt;C08A24D4-09FC-403D-BC2D-91FD27372F0C/f:Palindrome_Number.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::C08A24D4-09FC-403D-BC2D-91FD27372F0C::net9.0::TestProject.Merge_String_Alternately.Test1&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
   &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
