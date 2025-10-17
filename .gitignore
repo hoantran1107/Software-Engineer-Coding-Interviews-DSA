@@ -734,3 +734,5 @@ history/
 *.msp
 # JetBrains Rider
 *.sln.iml
+/LetCode/83.Tests/obj
+/LetCode/LinkedListTest/obj
