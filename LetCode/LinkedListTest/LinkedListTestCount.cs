@@ -12,7 +12,7 @@ public class LinkedListTestCount
         var result = solution.LengthOfLinkedList(head);
         Assert.Equal(3, result);
     }
-    
+
     [Fact]
     public void LinkedListRecursiveLength()
     {

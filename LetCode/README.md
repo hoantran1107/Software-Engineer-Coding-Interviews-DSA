@@ -23,7 +23,8 @@ LetCode/
 
 - **Difficulty**: Easy
 - **Link**: <https://leetcode.com/problems/remove-duplicates-from-sorted-list/>
-- **Description**: Given the head of a sorted linked list, delete all duplicates such that each element appears only once.
+- **Description**: Given the head of a sorted linked list, delete all duplicates such that each element appears only
+  once.
 - **Time Complexity**: O(n)
 - **Space Complexity**: O(1)
 

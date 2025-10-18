@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_9_palindrome_number", "_9_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1768_Merge_Strings_Alternately", "_1768_Merge_Strings_Alternately\_1768_Merge_Strings_Alternately.csproj", "{30004BCF-2E9A-4AD5-B3E6-954D5834B6F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopInterView150", "TopInterView150\TopInterView150.csproj", "{97ED76BC-B36D-4D40-BD43-AA77BD976220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopInterView150Test", "TopInterView150Test\TopInterView150Test.csproj", "{D76B5B97-27DF-4317-8A8A-617717E8AAB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,5 +54,13 @@ Global
 		{30004BCF-2E9A-4AD5-B3E6-954D5834B6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30004BCF-2E9A-4AD5-B3E6-954D5834B6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30004BCF-2E9A-4AD5-B3E6-954D5834B6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97ED76BC-B36D-4D40-BD43-AA77BD976220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97ED76BC-B36D-4D40-BD43-AA77BD976220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97ED76BC-B36D-4D40-BD43-AA77BD976220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97ED76BC-B36D-4D40-BD43-AA77BD976220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76B5B97-27DF-4317-8A8A-617717E8AAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76B5B97-27DF-4317-8A8A-617717E8AAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76B5B97-27DF-4317-8A8A-617717E8AAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76B5B97-27DF-4317-8A8A-617717E8AAB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
