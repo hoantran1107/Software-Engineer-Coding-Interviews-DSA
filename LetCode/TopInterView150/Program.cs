@@ -1,4 +1,6 @@
-﻿namespace TopInterView150;
+﻿using System;
+
+namespace TopInterView150;
 
 internal class Program
 {

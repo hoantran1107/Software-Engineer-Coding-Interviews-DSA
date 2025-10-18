@@ -1,4 +1,6 @@
-﻿namespace TopInterView150Test;
+﻿using Xunit;
+
+namespace TopInterView150Test;
 
 public class Is_Subsequence_Test
 {

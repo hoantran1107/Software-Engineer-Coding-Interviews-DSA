@@ -1,4 +1,6 @@
-﻿namespace TopInterView150Test;
+﻿using Xunit;
+
+namespace TopInterView150Test;
 
 public class Valid_Palindrome_Test
 {
