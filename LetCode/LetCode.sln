@@ -20,6 +20,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopInterView150", "TopInter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopInterView150Test", "TopInterView150Test\TopInterView150Test.csproj", "{D76B5B97-27DF-4317-8A8A-617717E8AAB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA", "DSA\DSA.csproj", "{86DE3066-3B6A-4D50-9C8D-86A27780F181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSATest", "DSATest\DSATest.csproj", "{F1AA7FEB-5A32-411F-BDD7-785680B4B617}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,5 +66,13 @@ Global
 		{D76B5B97-27DF-4317-8A8A-617717E8AAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D76B5B97-27DF-4317-8A8A-617717E8AAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D76B5B97-27DF-4317-8A8A-617717E8AAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86DE3066-3B6A-4D50-9C8D-86A27780F181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DE3066-3B6A-4D50-9C8D-86A27780F181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DE3066-3B6A-4D50-9C8D-86A27780F181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DE3066-3B6A-4D50-9C8D-86A27780F181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1AA7FEB-5A32-411F-BDD7-785680B4B617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AA7FEB-5A32-411F-BDD7-785680B4B617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AA7FEB-5A32-411F-BDD7-785680B4B617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AA7FEB-5A32-411F-BDD7-785680B4B617}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
