@@ -1,72 +1,72 @@
-﻿using DSA.Search;
+﻿using TopInterView150.TwoPointers;
 
-namespace DSATest.SeachTest;
+namespace TopInterView150Test.TwoPointersTest;
 
 public class SearchInsertPositionTest
 {
     
-    [Test]
+    [Fact]
     public void SearchInsertPosition0()
     {
         var arr = new[] { 1, 3, 5, 6 };
         var result = new SearchInsertPostion().SearchInsert(arr, 0);
-        Assert.That(result, Is.EqualTo(0));
+        Assert.Equal(0, result);
     }
     
-    [Test]
+    [Fact]
     public void SearchInsertPosition1()
     {
         var arr = new[] { 1, 3, 5, 6 };
         var result = new SearchInsertPostion().SearchInsert(arr, 5);
-        Assert.That(result, Is.EqualTo(2));
+        Assert.Equal(2, result);
     }
 
-    [Test]
+    [Fact]
     public void SearchInsertPosition2()
     {
         var arr = new[] { 1, 3, 5, 6 };
         var result = new SearchInsertPostion().SearchInsert(arr, 2);
-        Assert.That(result, Is.EqualTo(1));
+        Assert.Equal(1, result);
     }
 
-    [Test]
+    [Fact]
     public void SearchInsertPosition3()
     {
         var arr = new[] { 1, 3, 5, 6 };
         var result = new SearchInsertPostion().SearchInsert(arr, 7);
-        Assert.That(result, Is.EqualTo(4));
+        Assert.Equal(4, result);
     }
 
-    [Test]
+    [Fact]
     public void SearchInsertPosition4()
     {
         var arr = new[] { 1, 3, 5, 6 };
         var result = new SearchInsertPostion().SearchInsert(arr, 4);
-        Assert.That(result, Is.EqualTo(2));
+        Assert.Equal(2, result);
     }
     
     
-    [Test]
+    [Fact]
     public void SearchInsertPosition5()
     {
         var arr = new[] { 1, 3, 5, 6, 7 };
         var result = new SearchInsertPostion().SearchInsert(arr, 4);
-        Assert.That(result, Is.EqualTo(2));
+        Assert.Equal(2, result);
     }
     
-    [Test]
+    [Fact]
     public void SearchInsertPosition6()
     {
         var arr = new[] { 1, 3, 5, 6, 8 };
         var result = new SearchInsertPostion().SearchInsert(arr, 7);
-        Assert.That(result, Is.EqualTo(4));
+        Assert.Equal(4, result);
     }
     
-    [Test]
+    [Fact]
     public void SearchInsertPosition7()
     {
         var arr = new[] { 1, 3 };
         var result = new SearchInsertPostion().SearchInsert(arr, 2);
-        Assert.That(result, Is.EqualTo(1));
+        Assert.Equal(1, result);
     }
 }
