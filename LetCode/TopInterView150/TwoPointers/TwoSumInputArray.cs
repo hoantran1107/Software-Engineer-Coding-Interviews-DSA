@@ -16,20 +16,41 @@ public class TwoSumInputArray
         
         return null;
     }
+    
+    public int[] TwoSumOptimized(int[] numbers, int target)
+    {
+        var left = 0;
+        var right = numbers.Length - 1;
+    
+        while (left < right)
+        {
+            var sum = numbers[left] + numbers[right];
+        
+            if (sum == target)
+                return new[] { left + 1, right + 1 };
+        
+            if (sum < target)
+                left++;
+            else
+                right--;
+        }
+    
+        return [];
+    }
 
     public int[] TwoSum(int[] numbers, int target)
     {
         var left = 0;
-        var right = numbers.Length - 1;
-        while (left <= numbers.Length - 1)
+        while (left <= numbers.Length - 1) //O(n) 
         {
-            var temp = target - numbers[left];
-            while(temp < right){
-                var mid = (temp + right) / 2;
-                if(numbers[mid] == temp) return new[] {left, mid};
-
-                if(numbers[mid] > target){
-                    left = mid + 1;
+            var temp = target - numbers[left]; 
+            var leftTemp = left + 1;
+            var right = numbers.Length - 1;
+            while(leftTemp <= right){ //O(log n) for binary search
+                var mid = (leftTemp + right) / 2;
+                if(numbers[mid] == temp) return new[] {left+1, mid+1};
+                if(numbers[mid] < temp){
+                    leftTemp = mid + 1;
                 }
                 else{
                     right = mid -1;
