@@ -6,6 +6,10 @@ public class SearchInsertPositionTest
 {
     
     [Fact]
+    [InlineData(new int[] {1,3,5,6}, 5, 2)]
+    [InlineData(new int[] {1,3,5,6}, 2, 1)]
+    [InlineData(new int[] {1,3,5,6}, 7, 4)]
+    [InlineData(new int[] {1,3,5,6}, 0, 0)]
     public void SearchInsertPosition0()
     {
         var arr = new[] { 1, 3, 5, 6 };
