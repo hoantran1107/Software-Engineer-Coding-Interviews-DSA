@@ -13,7 +13,9 @@ public class SearchInsertPostion
         while (left <= right)
         {
             var mid = (left + right) / 2;
-            if (numbers[left] < target && target < numbers[right] && left + 1 == right) return left +1;
+            if(left == right -1){
+               return left + 1;
+            }
             if (numbers[mid] == target) return mid;
             if(numbers[mid] < target){
                 
